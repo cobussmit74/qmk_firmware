@@ -54,7 +54,7 @@ typedef struct PACKED {
 key_combination_t key_comb_list[4] = {
     {2, {KC_LWIN, KC_TAB}},
     {2, {KC_LWIN, KC_E}},
-    {3, {KC_LSFT, KC_LCMD, KC_4}},
+    {3, {KC_LWIN, KC_LSFT, KC_S}},
     {2, {KC_LWIN, KC_C}}
 };
 
